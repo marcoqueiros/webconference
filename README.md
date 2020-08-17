@@ -1,0 +1,2 @@
+# webconference
+Aplicação web para gerir uma conferência
